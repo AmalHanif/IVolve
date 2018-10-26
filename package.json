@@ -1,0 +1,64 @@
+{
+  "name": "i-volve",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "animate.css": "3.7.0",
+    "awesome-bootstrap-checkbox": "1.0.1",
+    "backbone": "1.3.3",
+    "bootstrap": "4.1.3",
+    "bootstrap-calendar": "^0.2.4",
+    "bootstrap-select": "1.13.2",
+    "flot": "0.8.0-alpha",
+    "flot-orderbars": "^1.0.0",
+    "font-awesome": "4.7.0",
+    "gmaps": "0.4.24",
+    "hammerjs": "^2.0.8",
+    "jasny-bootstrap": "3.1.3",
+    "jquery": "3.3.1",
+    "jquery-hammerjs": "^2.0.0",
+    "jquery-pjax": "2.0.1",
+    "jquery-sparkline": "^2.4.0",
+    "jquery-ui": "1.12.1",
+    "jquery.flot": "^0.8.3",
+    "line-awesome": "^1.0.2",
+    "messenger": "0.0.9",
+    "owl.carousel": "^2.3.4",
+    "pace-js": "1.0.2",
+    "react": "^16.5.2",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.5.2",
+    "react-scripts": "^2.0.5",
+    "resolve-url-loader": "^3.0.0",
+    "slimscroll": "0.9.1",
+    "typekit": "^0.1.1",
+    "webpack-cli": "^3.1.2",
+    "widgster": "0.0.3"
+  },
+  "devDependencies": {
+    "bootstrap-loader": "^3.0.1",
+    "del": "^3.0.0",
+    "glyphicons-halflings": "*",
+    "gulp": "^4.0.0",
+    "gulp-hb": "^7.0.1",
+    "gulp-rename": "1.2.2",
+    "gulp-sass": "^3.0.0",
+    "handlebars-layouts": "^3.1.4",
+    "popper.js": "1.14.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
